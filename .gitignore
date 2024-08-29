@@ -1,7 +1,0 @@
-https://www.amazon.com/ap/oa?client_id=foodev
-&scope=profile
-&response_type=code
-&state=208257577ll0975l93l2l59l895857093449424
-&redirect_uri=https://client.example.com/auth_popup/token
-&code_challenge=Fw7s3XHRVb2m1nT7s646UrYiYLMJ54as0ZIU_injyqw
-&code_challenge_method=S256
